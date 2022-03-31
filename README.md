@@ -1,4 +1,14 @@
-Hey 👋 I'm Daniel Lugo, who enjoys solving complex problems and making things happen. Always looking for new opportunities to grow as a professional and as a human being through the new challenges of the digital era. I consider myself self-discipline
+Hey 👋 I'm Daniel Lugo, who enjoys solving complex problems and making things happen.
+
+Always looking for new opportunities to grow as a professional and as a human being through the new challenges of the digital era.
+
+I consider myself autodidact disciplined, proactive and committed to productivity goals for delivering customer value. Willingness and ability to quickly acquire new learning..
+
+Love challenging projects, learn new things and share your knowledge.
+
+Dominican youth, can!
+
+Never stop learning. !
 
 
 Skills
