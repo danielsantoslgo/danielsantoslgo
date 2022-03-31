@@ -11,8 +11,9 @@ Contact
 
 💌 inglugosky@outlook.com
 
-<a href="https://www.linkedin.com/in/lugosky/" target="_blank"><img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?label=lugosky&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2lugosky%2F"></a>
-<a href="https://twitter.com/Lugosky_" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Lugosky_?label=S%C3%ADgueme%20en%20%40Lugosky_&style=social"></a>
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Lugosky)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lugosky/)
+
 
 <!--
 **kratos02/lugosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
