@@ -3,14 +3,18 @@ Hey 👋 I'm Daniel Lugo, who enjoys solving complex problems and making things 
 
 Skills
 
-Cloud Computing
-Knowledge in DevOps Technologies
-GNU/Linux and Windows system administration
+- Cloud Computing
+- Knowledge in DevOps Technologies
+- GNU/Linux and Windows system administration
 
 Contact
 
 💌 inglugosky@outlook.com
 
+<a href="https://www.crashell.com/?suscribirse" target="_blank"><img alt="Crashell" src="https://img.shields.io/twitter/url?color=9cf&label=%40Crashell&logo=Crashell&logoColor=informational&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fantoniomorenosm"></a>
 
-https://www.linkedin.com/in/lugosky/
-https://twitter.com/Lugosky_ 
+<a href="https://www.linkedin.com/in/lugosky/" target="_blank"><img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?label=Frankier%20Flores&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrankierflores%2F"></a>
+<a href="https://twitter.com/Lugosky_" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/frankierflores?label=S%C3%ADgueme%20en%20%40frankierflores&style=social"></a>
+
+<!--
+**kratos02/lugosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
