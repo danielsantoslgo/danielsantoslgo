@@ -11,7 +11,7 @@ Contact
 
 💌 inglugosky@outlook.com
 
-<a href="https://www.linkedin.com/in/lugosky/" target="_blank"><img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?label=Frankier%20Flores&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrankierflores%2F"></a>
+<a href="https://www.linkedin.com/in/lugosky/" target="_blank"><img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?label=lugosky&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2lugosky%2F"></a>
 <a href="https://twitter.com/Lugosky_" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Lugosky_?label=S%C3%ADgueme%20en%20%40Lugosky_&style=social"></a>
 
 <!--
