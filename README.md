@@ -12,5 +12,5 @@ Contact
 💌 inglugosky@outlook.com
 
 
-LinkedIn URL:https://www.linkedin.com/in/lugosky/
-Twitter URL:https://twitter.com/Lugosky_ 
+https://www.linkedin.com/in/lugosky/
+https://twitter.com/Lugosky_ 
