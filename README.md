@@ -6,10 +6,7 @@ I consider myself autodidact disciplined, proactive and committed to productivit
 
 Love challenging projects, learn new things and share your knowledge.
 
-Dominican youth, can!
-
 Never stop learning. !
-
 
 Skills
 
