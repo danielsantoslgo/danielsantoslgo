@@ -14,7 +14,7 @@ Skills
 - Knowledge in DevOps Technologies
 - GNU/Linux and Windows system administration
 
-Si quieres ver un poco más, pásate por mi [Medium](https://lugosky.medium.com/).
+If you want to see a little more, stop by me [Medium](https://lugosky.medium.com/).
 
 <details>
 	<summary> 📰 Artículos publicados</summary>
