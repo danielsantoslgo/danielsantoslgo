@@ -34,6 +34,8 @@ If you want to see a little more, stop by me [Medium](https://lugosky.medium.com
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Lugosky)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lugosky/)
+	
+<a href="https://app.daily.dev/lugosky"><img src="https://api.daily.dev/devcards/4d15cb3aec174e94b682f79ca1193756.png?r=xl0" width="150" alt="Lugosky Dev Card"/></a>
 
 
 <!--
