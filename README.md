@@ -35,10 +35,11 @@ If you want to see a little more, stop by me [Medium](https://lugosky.medium.com
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Lugosky)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lugosky/)
 	
-<a href="https://app.daily.dev/lugosky"><img src="https://api.daily.dev/devcards/1c91ea96a5474c8e9dc230d52396cde1.png?r=r2n" width="200" alt="Daniel Lugo's Dev Card"/></a>
+
 
 ![Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kratos02&layout=compact)](https://github.com/kratos02/github-readme-stats)
+![Kratos02 streaks](https://github-readme-streak-stats.herokuapp.com/?user=kratos02&)
+
 
 
 <!--
