@@ -37,6 +37,8 @@ If you want to see a little more, stop by me [Medium](https://lugosky.medium.com
 	
 <a href="https://app.daily.dev/lugosky"><img src="https://api.daily.dev/devcards/1c91ea96a5474c8e9dc230d52396cde1.png?r=r2n" width="200" alt="Daniel Lugo's Dev Card"/></a>
 
+![Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=dark)
+
 
 <!--
 **kratos02/lugosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
