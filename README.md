@@ -11,7 +11,7 @@ Love challenging projects, learn new things and share your knowledge.
 
 Never stop learning. !
 
-<
+
 
 If you want to see a little more, stop by me [Medium](https://lugosky.medium.com/).
 
