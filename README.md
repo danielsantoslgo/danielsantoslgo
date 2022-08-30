@@ -1,5 +1,6 @@
 ![Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=white)
 ![Kratos02 streaks](https://github-readme-streak-stats.herokuapp.com/?user=kratos02&)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kratos02&show_icons=true&locale=en&layout=compact" alt="kratos02" /></p>
 
 Hey 👋 I'm Daniel Lugo, who enjoys solving complex problems and making things happen.
 
@@ -39,13 +40,6 @@ You can find and get touch with me on these accounts!
 
 [![Twitter Badge](https://img.shields.io/badge/Lugosky-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Lugosky)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kratos02&show_icons=true&locale=en&layout=compact" alt="kratos02" /></p>
-
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 
