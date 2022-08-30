@@ -35,9 +35,9 @@ If you want to see a little more, stop by me [Medium](https://lugosky.medium.com
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/lgmorand-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lugosky/)
+[![Linkedin Badge](https://img.shields.io/badge/Lugosky-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lugosky/)
 
-[![Twitter Badge](https://img.shields.io/badge/lgmorand-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Lugosky)
+[![Twitter Badge](https://img.shields.io/badge/Lugosky-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Lugosky)
 
 	
 
