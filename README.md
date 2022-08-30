@@ -1,3 +1,6 @@
+![Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=dark)
+![Kratos02 streaks](https://github-readme-streak-stats.herokuapp.com/?user=kratos02&)
+
 Hey 👋 I'm Daniel Lugo, who enjoys solving complex problems and making things happen.
 
 Always looking for new opportunities to grow as a professional and as a human being through the new challenges of the digital era.
@@ -7,13 +10,6 @@ I consider myself autodidact disciplined, proactive and committed to productivit
 Love challenging projects, learn new things and share your knowledge.
 
 Never stop learning. !
-
-![Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=dark)
-![Kratos02 streaks](https://github-readme-streak-stats.herokuapp.com/?user=kratos02&)
-
-## Know / Using 🧠
-
-<img src="https://github.com/github/explore/blob/main/topics/actions/actions.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/azure/azure.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/bash/bash.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/kubernetes/kubernetes.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/nginx/nginx.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/powershell/powershell.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/main/topics/yaml/yaml.png?raw=true" height="32" />
 
 If you want to see a little more, stop by me [Medium](https://lugosky.medium.com/).
 
@@ -28,6 +24,10 @@ If you want to see a little more, stop by me [Medium](https://lugosky.medium.com
 		<li><a href="https://lugosky.medium.com/certificaci%C3%B3n-microsoft-azure-fundamentals-az-900-mi-experiencia-92f535064960/" target="_blank">📄Certificación Microsoft Azure Fundamentals AZ-900: Mi Experiencia.</a></li>
 		<li><a href="https://lugosky.medium.com/dhcp-starvation-con-yersinia-dejando-fuera-del-juego-al-server-9e8cd389fab0/" target="_blank">📄 DHCP Starvation con Yersinia: Dejando fuera del juego al Server</a></li>
 </details>
+
+## Know / Using 🧠
+
+<img src="https://github.com/github/explore/blob/main/topics/actions/actions.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/azure/azure.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/bash/bash.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/kubernetes/kubernetes.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/nginx/nginx.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/powershell/powershell.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/main/topics/yaml/yaml.png?raw=true" height="32" />
 
 ## How to reach me 📫
 
