@@ -39,7 +39,8 @@ You can find and get touch with me on these accounts!
 
 [![Twitter Badge](https://img.shields.io/badge/Lugosky-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Lugosky)
 
-<h3 align="left">Languages and Tools:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kratos02&show_icons=true&locale=en&layout=compact" alt="kratos02" /></p>
+
 
 
 ### Blogs posts
