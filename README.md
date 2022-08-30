@@ -8,6 +8,9 @@ Love challenging projects, learn new things and share your knowledge.
 
 Never stop learning. !
 
+![Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=dark)
+![Kratos02 streaks](https://github-readme-streak-stats.herokuapp.com/?user=kratos02&)
+
 Skills
 
 - Cloud Computing
@@ -28,17 +31,18 @@ If you want to see a little more, stop by me [Medium](https://lugosky.medium.com
 		<li><a href="https://lugosky.medium.com/dhcp-starvation-con-yersinia-dejando-fuera-del-juego-al-server-9e8cd389fab0/" target="_blank">📄 DHCP Starvation con Yersinia: Dejando fuera del juego al Server</a></li>
 </details>
 
-## 💬 Contact
+## How to reach me 📫
 
-💌 inglugosky@outlook.com
+You can find and get touch with me on these accounts!
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Lugosky)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lugosky/)
+[![Linkedin Badge](https://img.shields.io/badge/lgmorand-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lugosky/)
+
+[![Twitter Badge](https://img.shields.io/badge/lgmorand-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Lugosky)
+
 	
 
 
-![Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=dark)
-![Kratos02 streaks](https://github-readme-streak-stats.herokuapp.com/?user=kratos02&)
+
 
 
 
