@@ -1,4 +1,4 @@
-![Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=dark)
+![Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=white)
 ![Kratos02 streaks](https://github-readme-streak-stats.herokuapp.com/?user=kratos02&)
 
 Hey 👋 I'm Daniel Lugo, who enjoys solving complex problems and making things happen.
