@@ -11,7 +11,6 @@ Love challenging projects, learn new things and share your knowledge.
 
 Never stop learning. !
 
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
