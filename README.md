@@ -1,5 +1,7 @@
 ![DanielSantosLgo GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsantoslgo&show_icons=true&theme=white)
 ![DanielSantosLgo streaks](https://github-readme-streak-stats.herokuapp.com/?user=danielsantoslgo&)
+
+
 Hey 👋 I'm Daniel Lugo, who enjoys solving complex problems and making things happen.
 
 Always looking for new opportunities to grow as a professional and as a human being through the new challenges of the digital era.
