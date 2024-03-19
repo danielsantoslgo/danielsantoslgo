@@ -1,6 +1,5 @@
-![Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=white)
-![Kratos02 streaks](https://github-readme-streak-stats.herokuapp.com/?user=kratos02&)
-
+![DanielSantosLgo GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsantoslgo&show_icons=true&theme=white)
+![DanielSantosLgo streaks](https://github-readme-streak-stats.herokuapp.com/?user=danielsantoslgo&)
 Hey 👋 I'm Daniel Lugo, who enjoys solving complex problems and making things happen.
 
 Always looking for new opportunities to grow as a professional and as a human being through the new challenges of the digital era.
@@ -13,7 +12,7 @@ Never stop learning. !
 
 
 
-If you want to see a little more, stop by me [Medium](https://lugosky.medium.com/).
+If you want to see a little more, stop by me [Medium](delosantoslugo.medium.com).
 
 <details>
 	<summary> 📰 Artículos publicados</summary>
@@ -35,9 +34,9 @@ If you want to see a little more, stop by me [Medium](https://lugosky.medium.com
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/Lugosky-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lugosky/)
+[![Linkedin Badge](https://img.shields.io/badge/DeLosSantosLugo-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielsantoslgo/)
 
-[![Twitter Badge](https://img.shields.io/badge/Lugosky-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Lugosky)
+[![Twitter Badge](https://img.shields.io/badge/DeLosSantosLugo-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/DeLosSantosLugo)
 
 
 
