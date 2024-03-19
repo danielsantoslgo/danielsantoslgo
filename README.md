@@ -2,7 +2,7 @@
 ![DanielSantosLgo streaks](https://github-readme-streak-stats.herokuapp.com/?user=danielsantoslgo&)
 
 
-Hey 👋 I'm Daniel Lugo, who enjoys solving complex problems and making things happen.
+Hey 👋 I'm Daniel De Los Santos Lugo, who enjoys solving complex problems and making things happen.
 
 Always looking for new opportunities to grow as a professional and as a human being through the new challenges of the digital era.
 
