@@ -1,3 +1,4 @@
+```yaml
 # myProfile.yaml
 ---
 name: Daniel De Los Santos Lugo
@@ -12,6 +13,8 @@ skills:
 
 about: |
     I bring over 4 years of extensive expertise as a Senior DevOps Engineer, specializing in optimizing infrastructure and streamlining code deployments for seamless application delivery. My skills focus on ensuring operational efficiency and reliability, with a strong commitment to continuous process improvement. I have a proven history of automating development and deployment workflows, enhancing efficiency, and promoting scalability in application delivery.
+
+    ```
 
 contact:
   email: lugodaniel392@gmail.com
