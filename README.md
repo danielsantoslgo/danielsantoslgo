@@ -18,13 +18,11 @@ My skills focus on ensuring operational efficiency and reliability, with a stron
 commitment to continuous process improvement. I have a proven history of automating development
 and deployment workflows, enhancing efficiency, and promoting scalability in application delivery.
 
-    ```
-
 contact:
   email: lugodaniel392@gmail.com
   github: https://github.com/danielsantoslgo
   linkedin: https://www.linkedin.com/in/danielsantoslgo/
-
+```
 
   #### I have years of experience working with those Cloud Service Providers
 [![Cloud Service Providers](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,firebase)](https://skillicons.dev)
