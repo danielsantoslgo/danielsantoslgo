@@ -1,11 +1,3 @@
-<p align="center">
-
-  Visitor count <br>
-
-  <img src="https://profile-counter.glitch.me/danielsantoslgo/count.svg" />
-  <br> <br>
-  
-
 ```yaml
 # myProfile.yaml
 ---
